@@ -37,7 +37,7 @@ async function predict() {
     }else if(highestProbability_name =="Class 6"){//결절_종괴
         window.location.href = "./results/Class6.html"
     }else if(highestProbability_name =="Class 7"){//정상
-        window.location.href = "./results/Class7.html"
+        window.location.href = "./results/Class8.html"
     }
     
 }
