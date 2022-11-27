@@ -25,19 +25,19 @@ async function predict() {
     }
     console.log(highestProbability_name);
     if(highestProbability_name == "Class 1"){//구진_플라크
-        window.location.href = "./results/sweet_potato.html"
+        window.location.href = "./results/Class1.html"
     }else if(highestProbability_name =="Class 2"){//비듬_각질_상피성잔고리
-        window.location.href = "./results/potato.html"
+        window.location.href = "./results/Class2.html"
     }else if(highestProbability_name =="Class 3"){//태선화_과다색소침착
-        window.location.href = "./results/tomato.html"
+        window.location.href = "./results/Class3.html"
     }else if(highestProbability_name =="Class 4"){//농포_여드름
-        window.location.href = "./results/pig_potato.html"
+        window.location.href = "./results/Class4.html"
     }else if(highestProbability_name =="Class 5"){//미란_궤양
-        window.location.href = "./results/chili.html"
+        window.location.href = "./results/Class5.html"
     }else if(highestProbability_name =="Class 6"){//결절_종괴
-        window.location.href = "./results/class6.html"
+        window.location.href = "./results/Class6.html"
     }else if(highestProbability_name =="Class 7"){//정상
-        window.location.href = "./results/class7.html"
+        window.location.href = "./results/Class7.html"
     }
     
 }
