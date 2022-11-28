@@ -15,7 +15,7 @@
         flex-direction: row;
         padding: 0px;
         justify-content: center;
-
+        height:calc(100vh - 5px);
         padding-top: 0px;
 
     }
@@ -52,7 +52,7 @@
     }
 
     .description_text {
-        margin-top: 150px;
+        margin-top: 100px;
         padding: 25px;
         font-size: 20px;
         line-height: 150%;
@@ -60,7 +60,7 @@
     }
 
     #button_section {
-        margin-top: 90px;
+        margin-top: 70px;
         display: flex;
         justify-content: center;
     }
@@ -80,7 +80,7 @@
     }
 
     #upload_section {
-        margin-top: 90px;
+        /* margin-top: 90px; */
         display: flex;
         justify-content: center;
     }
@@ -128,7 +128,7 @@
         flex-direction: row;
         padding: 0px;
         justify-content: center;
-
+        height:calc(100vh - 5px);
         padding-top: 0px;
 
     }
@@ -165,7 +165,7 @@
     }
 
     .description_text {
-        margin-top: 150px;
+        margin-top: 100px;
         padding: 45px 35px 35px;
         font-size: 27px;
         line-height: 150%;
@@ -173,7 +173,7 @@
     }
 
     #button_section {
-        margin-top: 90px;
+        margin-top: 70px;
         display: flex;
         justify-content: center;
     }
@@ -193,7 +193,7 @@
     }
 
     #upload_section {
-        margin-top: 90px;
+        /* margin-top: 90px; */
         display: flex;
         justify-content: center;
     }
