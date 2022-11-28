@@ -100,7 +100,7 @@
     }
 
     .filebox {
-        margin-top: 150px;
+        /* margin-top: 150px; */
         padding: 25px;
         font-size: 20px;
         line-height: 150%;
@@ -170,7 +170,7 @@
     }
 
     #main {
-        /* border: 1px solid #000; */
+         /* border: 1px solid #000; */
     }
 
     #description {
@@ -215,7 +215,7 @@
     }
 
     .filebox {
-        margin-top: 150px;
+        /* margin-top: 150px; */
         padding: 45px 35px 35px;
         font-size: 27px;
         line-height: 150%;
