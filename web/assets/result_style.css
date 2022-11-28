@@ -34,6 +34,16 @@
         /* border: 1px solid black; */
     }
 
+    #header{
+        /* width: 100vh; */
+        height: 115px;
+        border: 1px solid #ccccc0;
+
+        /* border: 30px solid #ccccc0; */
+
+
+    }
+
     #header_name {
         padding: 8px;
         margin: 0px;
@@ -52,7 +62,7 @@
     }
 
     #result_text {
-        margin-top: 100px;
+        margin-top: 10px;
         color: rgb(246,142,45);
     }
 
@@ -63,7 +73,7 @@
     }
 
     #plant_name {
-        font-size: 70px;
+        font-size: 40px;
         text-align: center;
         font-weight: bold;
         margin:0px;
@@ -75,7 +85,7 @@
     }
 
     #result_image > img {
-        width: 95%;
+        width: 60%;
     }
 
     #result_wrap {
