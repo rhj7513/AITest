@@ -172,21 +172,22 @@
         display: flex;
         height: inherit;
         justify-content: center;
+        /* margin-bottom: 300%; */
     }
 
     #result_text {
-        margin-top: 90px;
+        /* margin-top: 90px; */
         text-align: center;
         color: rgb(246,142,45);
     }
 
     #text_header {
-        font-size: 50px;
+        font-size: 30px;
         margin:0px;
     }
 
     #plant_name {
-        font-size: 60px;
+        font-size: 40px;
         font-weight: bold;
         margin:0px;
     }
@@ -197,7 +198,7 @@
     }
 
     #result_image > img {
-        width: 95%;
+        width: 55%;
     }
 
     #result_wrap {
