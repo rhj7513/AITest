@@ -172,6 +172,7 @@
         display: flex;
         height: inherit;
         justify-content: center;
+        /* margin: 40%; */
         /* margin-bottom: 300%; */
     }
 
